@@ -48,8 +48,8 @@ La alianza entre Airbus y la NASA no se centra en aviones comunes, sino en tecno
 
 En el área de aviación comercial, Airbus trabaja en proyectos disruptivos para sustituir a sus familias actuales mediante tres grandes pilares tecnológicos:
 
-- El Sucesor del A320neo (Proyecto de Corto/Medio Alcance)Airbus está sentando las bases tecnológicas para lanzar formalmente un avión de pasillo único completamente nuevo entre 2030 y 2031, con entrada en servicio hacia la segunda mitad de la década.
+- El Sucesor del A320neo (Proyecto de Corto/Medio Alcance) Airbus está sentando las bases tecnológicas para lanzar formalmente un avión de pasillo único completamente nuevo entre 2030 y 2031, con entrada en servicio hacia la segunda mitad de la década.
 
-- Proyecto ZEROe (Aeronaves de Hidrógeno)El ambicioso programa Airbus ZEROe busca lanzar el primer avión comercial del mundo con cero emisiones de carbono. El fabricante ha seleccionado las pilas de combustible de hidrógeno (que generan electricidad y solo emiten vapor de agua) como su principal vía de propulsión.
+- Proyecto ZEROe (Aeronaves de Hidrógeno) El ambicioso programa Airbus ZEROe busca lanzar el primer avión comercial del mundo con cero emisiones de carbono. El fabricante ha seleccionado las pilas de combustible de hidrógeno (que generan electricidad y solo emiten vapor de agua) como su principal vía de propulsión.
 
-- Conceptos Avanzados (NASA AACES 2050)Mirando hacia mediados de siglo, Airbus participa conceptualmente en iniciativas globales de sostenibilidad como el programa AACES 2050 de la NASA. En esta etapa se estudian diseños radicales que rompen con el clásico tubo con alas, explorando la propulsión híbrida-eléctrica distribuida (múltiples ventiladores eléctricos pequeños a lo largo del fuselaje) y estructuras compuestas avanzadas ensambladas por robótica automatizada.
+- Conceptos Avanzados (NASA AACES 2050) Mirando hacia mediados de siglo, Airbus participa conceptualmente en iniciativas globales de sostenibilidad como el programa AACES 2050 de la NASA. En esta etapa se estudian diseños radicales que rompen con el clásico tubo con alas, explorando la propulsión híbrida-eléctrica distribuida (múltiples ventiladores eléctricos pequeños a lo largo del fuselaje) y estructuras compuestas avanzadas ensambladas por robótica automatizada.
