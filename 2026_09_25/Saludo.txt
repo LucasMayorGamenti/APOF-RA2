@@ -1,0 +1,5 @@
+Bienvenidos y bienvenidas a mi fichero Saludo.txt
+
+Al tratarse de un fichero tipo txt, si escribo sintaxisis de tipo markdown, como son **negritas**, no funcionara.
+
+Lo mismo ocurrira si utilizo sintaxis de HTLM como es <strong>strong</strong> 
