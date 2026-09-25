@@ -1,3 +1,3 @@
 # Explicacion de lo aprendido hoy
 
-En la clase de hoy he aprendido que dependiendo de que aplicacion de edicion de texto usemos tiene diferente tipo de extension, a parte de eso, tambien cambia la forma en la que se hacen diferentes acciones y sintaxis, como la de poner en negrita un texto, por ejemplo, si utilizamos la extension md, para poner algo en negrita se debe de poner entre asteriscos (**), mientras que en HTML es otra diferente que Visual Studio accepta, pero hay otros programas que no.
+En la clase de hoy he aprendido que dependiendo de que aplicacion de edicion de texto usemos tiene diferente tipo de extension, a parte de eso, tambien cambia la forma en la que se hacen diferentes acciones y sintaxis, como la de poner en negrita un texto .por ejemplo, si utlizamos la extension md para poner algo en negrita se debe de poner entre asteriscos (**), mientras que en HTML es otra diferente que Visual Studio accepta, pero hay otros programas que no.
